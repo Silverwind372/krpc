@@ -1,0 +1,13 @@
+# catkin build output
+catkin_ws/build/
+catkin_ws/devel/
+catkin_ws/install/
+catkin_ws/logs/
+# Python
+__pycache__/
+*.pyc
+# packaged submissions and logs
+*.tar.gz
+*.log
+# editor
+.vscode/

@@ -1,0 +1,19 @@
+*.pcd
+build/
+devel/
+share/
+reports/
+__pycache__/
+.pytest_cache/
+src_local_backup/
+ff_msgs
+# run output and logs
+share/
+build.log
+*.log
+*.tar.gz
+# build output
+users/catkin_ws/build/
+users/catkin_ws/devel/
+__pycache__/
+*.pyc
